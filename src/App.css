@@ -1,0 +1,26 @@
+.link{
+  font-size:26px;
+  text-decoration: none;
+  margin:20px;
+  color: white;
+ 
+}
+
+.link:hover{
+  color:yellowgreen;
+}
+
+.header{
+
+  background-color: teal;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+
+
+h1{
+  margin: 0;
+}
